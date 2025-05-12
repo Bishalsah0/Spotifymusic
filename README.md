@@ -1,1 +1,1 @@
-# Spotifymusic
+This is the clone of spotify which is just made for the html project and it is made using html and css only.. After that in order to add music we have used the script in short which is simply understandable by all.
